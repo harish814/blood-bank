@@ -155,3 +155,13 @@ li{
   margin: 0;
 }
 /* navigation */
+.navigation{
+  background-color: #98ccd3;
+}
+.navbar-brand{
+  font-family: 'Merriweather', serif;
+}
+.navli{
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+}
