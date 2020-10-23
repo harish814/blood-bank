@@ -144,3 +144,14 @@ li{
   color: white;
   font-size: 2rem;
 }
+/* er dig */
+.er{
+  background-color: #ebf0f6;
+  padding-left: 100px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.er h1{
+  margin: 0;
+}
+/* navigation */
