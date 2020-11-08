@@ -144,6 +144,36 @@ li{
   color: white;
   font-size: 2rem;
 }
+/* requirements */
+.req{
+    background-color: #ebf0f6;
+    padding: 30px;
+    padding-bottom: 60px;
+}
+.req h3{
+  padding: 3% 5%;
+  font-family: 'Playfair Display', serif;
+  background-color: black;
+  color: white;
+  padding-right: 60px;
+}
+.req h1{
+  text-align: center;
+  margin: 0;
+  text-decoration: underline;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 30px;
+}
+.req p{
+  margin-left: 5%;
+  font-family: 'Staatliches', cursive;
+  font-size: 1.5rem;
+}
+.hw{
+  border-style: solid;
+  border-width: thin;
+  background-color: #98ccd3;
+}
 /* er dig */
 .er{
   background-color: #ebf0f6;
